@@ -83,7 +83,7 @@ To get started create a new account using your email.
 Users's stuff
 
 ![Screenshot 2024-04-22 153501](https://github.com/DharshiBalasubramaniyam/Fullstack-Expense-Tracker/assets/139672976/a8e6d65b-626f-493e-922d-dd7c26d8294c)
-![Screenshot 2024-04-22 153536](https://github.com/DharshiBalasubramaniyam/Fullstack-Expense-Tracker/assets/139672976/ed01d05e-cead-43c5-8959-6b64615fee43)
+![Image](https://github.com/user-attachments/assets/7fc5e73d-8d77-435a-bcba-79523cdd1fb4)
 ![Image](https://github.com/user-attachments/assets/42ede346-8461-4ac3-ac7e-a78eaa2a7907)
 ![Image](https://github.com/user-attachments/assets/af01b9fa-6ec4-46e8-80bc-1f0f6f4d4b97)
 ![Image](https://github.com/user-attachments/assets/2ec57ead-16f5-46ad-8e47-1e38a57d736c)
