@@ -83,7 +83,7 @@ To get started create a new account using your email.
 Users's stuff
 
 ![Image](https://github.com/user-attachments/assets/55fae3c1-b132-4bb7-8bba-6f43d2aef680)
-![Image](https://github.com/user-attachments/assets/7fc5e73d-8d77-435a-bcba-79523cdd1fb4)
+![Image](https://github.com/user-attachments/assets/aca5721c-c8f6-4d56-aa35-01e0deac7637)
 ![Image](https://github.com/user-attachments/assets/42ede346-8461-4ac3-ac7e-a78eaa2a7907)
 ![Image](https://github.com/user-attachments/assets/af01b9fa-6ec4-46e8-80bc-1f0f6f4d4b97)
 ![Image](https://github.com/user-attachments/assets/2ec57ead-16f5-46ad-8e47-1e38a57d736c)
