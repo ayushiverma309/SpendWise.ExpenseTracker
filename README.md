@@ -14,6 +14,8 @@
 2. [How to run?](#how-to-run)
 3. [Screenshots](#screenshots)
 
+
+
 ## Description
 
 - Developed a full-stack expense tracking web application using Spring Boot, React.js, and MySQL, facilitating seamless management of day-to-day finances.
